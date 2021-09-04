@@ -1,0 +1,12 @@
+POST http://localhost:8080/dashboard/registration
+
+<> 2021-08-23T205853.403.json
+
+###
+
+POST http://localhost:8080/registration
+
+<> 2021-08-17T034656.400.json
+
+###
+
